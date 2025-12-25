@@ -18,3 +18,6 @@ BuildCores Parts List: [Link](https://de.buildcores.com/builds/81lwHPTSD?share=t
 | | | |
 |**Total Price**|**$114.79**| |
 |[BuildCores Web](https://de.buildcores.com)|[BuildCores iOS](https://apps.apple.com/us/app/buildcores-mobile-pc-building/id1441971434)|[BuildCores Android](https://play.google.com/store/apps/details?id=com.buildcores.buildcores&pcampaignid=web_share)|
+
+
+<img width="2400" height="1260" alt="image" src="https://github.com/user-attachments/assets/ef3327f4-d6cc-4045-96a8-fdf4757c6929" />
